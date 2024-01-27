@@ -6,14 +6,7 @@ function App() {
 
   return (
     <>
-        <div>
-            <Navbar />
-            <div className="App">
-                <article>
-                    <h1>WAFawfa</h1>
-                </article>
-            </div>
-        </div>
+  
     </>
   )
 }
